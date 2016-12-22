@@ -7,3 +7,4 @@
 7、git merge
 8、git branch
 9、git branch name
+10、git stash
