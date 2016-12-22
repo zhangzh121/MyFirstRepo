@@ -3,3 +3,5 @@
 3、git commit
 4、git log
 5、git reflog
+6、git branch
+7、git branch name
