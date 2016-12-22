@@ -5,3 +5,5 @@
 5、git reflog
 6、git diff
 7、git merge
+8、git branch
+9、git branch name
